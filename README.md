@@ -1,5 +1,6 @@
 PHP Redis cache wrapper
 ======
+[![Build Status](https://travis-ci.org/gonzalo123/redisphpwrapper.svg?branch=master)](https://travis-ci.org/gonzalo123/redisphpwrapper)
 
 Simple cache wrapper build in top of Predis/Redis
 
