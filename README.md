@@ -5,7 +5,6 @@ PHP Redis cache wrapper
 Simple cache wrapper build in top of Predis/Redis
 
 usage:
-``
 ```php
 use G\Redis\Cache;
 use Predis\Client;
