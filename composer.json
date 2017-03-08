@@ -1,0 +1,27 @@
+{
+  "name": "gonzalo123/redisphpwrapper",
+  "keywords": [
+    "gearman"
+  ],
+  "description": "redis Wrapper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gonzalo Ayuso",
+      "email": "gonzalo123@gmail.com"
+    }
+  ],
+  "require": {
+    "predis/predis": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "G\\Redis\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}

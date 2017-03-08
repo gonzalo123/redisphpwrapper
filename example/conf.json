@@ -1,0 +1,5 @@
+{
+    "scheme": "tcp",
+    "host": "localhost",
+    "port": 6379
+}
