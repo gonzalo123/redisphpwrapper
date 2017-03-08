@@ -18,4 +18,4 @@ $value = $cache->get("aaa.aaa.aaa", function () {
 });
 
 $cache->delete("aaa.aaa.aaa");
-``
+```
