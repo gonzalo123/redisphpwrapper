@@ -11,6 +11,7 @@
       "email": "gonzalo123@gmail.com"
     }
   ],
+  "minimum-stability": "stable",
   "require": {
     "predis/predis": "^1.1"
   },
