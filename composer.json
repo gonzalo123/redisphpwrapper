@@ -1,7 +1,7 @@
 {
   "name": "gonzalo123/redisphpwrapper",
   "keywords": [
-    "gearman"
+    "redis"
   ],
   "description": "redis Wrapper",
   "license": "MIT",
